@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="label_nama">Name</string>
+    <string name="lempar_dadu">Roll the Dice</string>
+    <string name="bagikan">Share</string>
+    <string name="about_title">About</string>
+    <string name="about_desc">Name: Rheival Septian Class: D3IF-48-01 NIM: 607062400086 Dice Throwing Application This application is used to enter names and shake the dice to generate random numbers from 1 to 6.</string>
+    <string name="hasil_dadu">Hello %1$s, Your Dice Result is %2$d</string>
+    <string name="share_text">Hello %1$s, Your Dice Result is %2$d</string>
+</resources>

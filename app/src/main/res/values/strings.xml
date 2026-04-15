@@ -1,12 +1,10 @@
 <resources>
     <string name="app_name">Dice App</string>
-    <string name="label_nama">Nama</string>
-    <string name="lempar_dadu">Lempar Dadu</string>
-    <string name="bagikan">Bagikan</string>
-    <string name="about_title">About</string>
-    <string name="about_desc">Nama : Rheival Septian\nKelas : D3IF-48-01\nNIM : 607062400086\n\nAplikasi Lempar Dadu\n
-        \nAplikasi ini digunakan untuk memasukkan nama dan mengocok dadu
-        untuk menghasilkan angka acak dari 1 sampai 6.</string>
-    <string name="hasil_dadu">Halo %1$s, Hasil Dadu Anda %2$d</string>
-    <string name="share_text">Halo %1$s, Hasil Dadu Anda %2$d</string>
+    <string name="label_nama" translatable="false">Nama</string>
+    <string name="lempar_dadu" translatable="false">Lempar Dadu</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="about_title" translatable="false">About</string>
+    <string name="about_desc" translatable="false">Nama : Rheival Septian Kelas : D3IF-48-01 NIM : 607062400086  Aplikasi Lempar Dadu           Aplikasi ini digunakan untuk memasukkan nama dan mengocok dadu         untuk menghasilkan angka acak dari 1 sampai 6.</string>
+    <string name="hasil_dadu" translatable="false">Halo %1$s, Hasil Dadu Anda %2$d</string>
+    <string name="share_text" translatable="false">Halo %1$s, Hasil Dadu Anda %2$d</string>
 </resources>
